@@ -1,0 +1,44 @@
+header{
+	text-align: center;
+	background-color: #00b7ea;
+	padding-bottom: 15px;
+	padding-top: 15px;
+
+
+}
+nav{
+	font-variant: small-caps;
+	font-family: Arial, "Times New Roman", serif;
+	font-size: 150%;
+}
+
+body{
+	background:#B3B3B3;
+}
+
+section{
+
+	display: inline-block;
+	float: left;
+	width: 30%;
+	margin-right: 2%;
+}
+
+footer{
+
+	background-color: #00b7ea;
+	height: 70px;
+	clear: both;
+}
+
+img{
+	width: 75px;
+}
+
+h1{
+	color: #ffffff;
+}
+h2{
+	color: #666666;
+	background: #00b7ea;
+}
